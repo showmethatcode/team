@@ -36,8 +36,12 @@ body {
 .mission-explanation a {
     color: #0162FA;
 }
+ul {
+    padding-inline-start: unset;
+    padding: 0px;
+}
 .mission-ul {
-    padding-inline-start: 0px;
+    padding: 0px;
     font-weight: normal;
 }
 .mission-li {
