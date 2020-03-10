@@ -96,6 +96,7 @@ ul {
 .members-row {
     display: flex;
     flex-wrap: wrap;
+    align-items: flex-start;
 }
 .member > .inputstr3 {
         border-radius: 6px;
