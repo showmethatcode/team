@@ -155,6 +155,9 @@ ul {
     .mission-explanation {
         font-size: 16px;
     }
+    .mission-li {
+        font-size: 16px;
+    }
     /* how */
     .how {
         margin-bottom: 22px;
