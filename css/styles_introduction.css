@@ -43,11 +43,12 @@ ul {
 .mission-ul {
     padding: 0px;
     font-weight: normal;
+    font-size: 18px;
 }
 .mission-li {
     padding-left: 0px;
     font-weight: normal;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 27px;
     margin-left: 20px;
     color: #2b2b2b;
@@ -96,6 +97,7 @@ ul {
 .members-row {
     display: flex;
     flex-wrap: wrap;
+    align-items: flex-start;
 }
 .member > .inputstr3 {
         border-radius: 6px;
@@ -151,6 +153,9 @@ ul {
         font-size: 20px;
     }
     .mission-explanation {
+        font-size: 16px;
+    }
+    .mission-li {
         font-size: 16px;
     }
     /* how */
